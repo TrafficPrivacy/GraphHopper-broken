@@ -1,0 +1,10 @@
+com/graphhopper/http/NearestServletWithEleIT.class
+com/graphhopper/http/WebHelperTest.class
+com/graphhopper/http/IPFilterTest.class
+com/graphhopper/http/GraphHopperWebTest$1.class
+com/graphhopper/http/BaseServletTester.class
+com/graphhopper/http/GraphHopperWebTest$2.class
+com/graphhopper/http/GraphHopperWebTest.class
+com/graphhopper/http/GraphHopperServletIT.class
+com/graphhopper/http/GraphHopperServletWithEleIT.class
+com/graphhopper/http/NearestServletIT.class
